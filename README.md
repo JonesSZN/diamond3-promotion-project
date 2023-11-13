@@ -1,1 +1,1 @@
-# diamond3-promotion-project
+# c2-project
